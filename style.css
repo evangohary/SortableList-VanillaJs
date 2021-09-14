@@ -51,7 +51,7 @@ body {
     font-size: 28px;
     height: 60px;
     width: 60px;
-    border: 2px solid #656;
+    border: 3px solid #656;
 }
 
 .draggable-list li.over .draggable {
@@ -64,6 +64,7 @@ body {
 
 .draggable-list li.right .person-name {
     color: #3ae374;
+    font-size: 1.3rem;
 }
 .draggable-list li.wrong .person-name {
     color: #ff3839;
